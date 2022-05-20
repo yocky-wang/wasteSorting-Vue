@@ -17,13 +17,13 @@
 
 ## 部分效果图
 1
-![](./READMEIMG/1.png)
+![](/READMEIMG/1.png)
 2
-![](./READMEIMG/2.png)
-![](./READMEIMG/3.png)
+![](/READMEIMG/2.png)
+![](/READMEIMG/3.png)
 3
-![](./READMEIMG/4.png)
+![](/READMEIMG/4.png)
 4
-![](./READMEIMG/5.png)
+![](/READMEIMG/5.png)
 5
-![](./READMEIMG/6.png)
+![](/READMEIMG/6.png)
