@@ -1,0 +1,156 @@
+{
+  "id": "3344764",
+  "name": "垃圾",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "9331665",
+      "name": "z有害",
+      "font_class": "zyouhai",
+      "unicode": "e98f",
+      "unicode_decimal": 59791
+    },
+    {
+      "icon_id": "10026154",
+      "name": "厨余垃圾",
+      "font_class": "chuyulaji",
+      "unicode": "e68d",
+      "unicode_decimal": 59021
+    },
+    {
+      "icon_id": "14990594",
+      "name": "其他垃圾",
+      "font_class": "qitalaji",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "19560352",
+      "name": "可回收",
+      "font_class": "Recyclable",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "26063593",
+      "name": "可回收物",
+      "font_class": "kehuishouwu",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "4777229",
+      "name": "放大",
+      "font_class": "fangda",
+      "unicode": "ec13",
+      "unicode_decimal": 60435
+    },
+    {
+      "icon_id": "145497",
+      "name": "下载",
+      "font_class": "xiazai",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "2076385",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e8c1",
+      "unicode_decimal": 59585
+    },
+    {
+      "icon_id": "4734142",
+      "name": "图片上传",
+      "font_class": "ic_image_upload",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "37283",
+      "name": "天猫提示-正确",
+      "font_class": "zhengque1",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "7516884",
+      "name": "返回顶部",
+      "font_class": "fanhuidingbu",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "666889",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "1082780",
+      "name": "编辑",
+      "font_class": "icon",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "1273256",
+      "name": "删除",
+      "font_class": "icon1",
+      "unicode": "e6a0",
+      "unicode_decimal": 59040
+    },
+    {
+      "icon_id": "17407349",
+      "name": "挑选项目",
+      "font_class": "tiaoxuanxiangmu",
+      "unicode": "e6df",
+      "unicode_decimal": 59103
+    },
+    {
+      "icon_id": "774433",
+      "name": "垃圾2",
+      "font_class": "laji2",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "1727589",
+      "name": "406报表",
+      "font_class": "baobiao",
+      "unicode": "e902",
+      "unicode_decimal": 59650
+    },
+    {
+      "icon_id": "5302975",
+      "name": "题库",
+      "font_class": "tiku",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "8224841",
+      "name": "收缩",
+      "font_class": "shousuo",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11174098",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e620",
+      "unicode_decimal": 58912
+    },
+    {
+      "icon_id": "18485382",
+      "name": "01_文章管理",
+      "font_class": "01_wenzhangguanli",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    }
+  ]
+}
